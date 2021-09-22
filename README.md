@@ -15,9 +15,9 @@ In this video, you'll learn:
 
 
 ## API used
-RapidAPI: https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel
-Travel Advisor API: https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel
-Open Weather Map API: https://rapidapi.com/community/api/open-weather-map?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel
+RapidAPI: https://rapidapi.com/
+Get Places Data to display in Google Map: Travel Advisor API: https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel
+Get Weather Forcast Data to display in Google Map: Open Weather Map API: https://rapidapi.com/community/api/open-weather-map?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel
 
 Google Map: get a "Maps JavaScript API" key from google deveveloper
 - create project

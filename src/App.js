@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-comment-textnodes */
 import React, { useState, useEffect } from 'react';
 import { CssBaseline, Grid } from '@material-ui/core';
 
@@ -64,6 +65,7 @@ const App = () => {
       <CssBaseline />
       <Header onPlaceChanged={onPlaceChanged} onLoad={onLoad} />
       <Grid container spacing={3} style={{ width: '100%' }}>
+        // https://codesandbox.io/s/fullwidthgrid-material-demo-forked-puj1q?file=/demo.js
         <Grid item xs={12} md={4}>
           <List
             isLoading={isLoading}
